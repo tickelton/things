@@ -1,7 +1,7 @@
 Kindle Paperwhite wall mount
 ============================
 
-![kindle_wall_mount.jpg](kindle_wall_mount/kindle_wall_mountjpg)
+![kindle_wall_mount.jpg](kindle_wall_mount/kindle_wall_mount.jpg)
 
 Template for a Kindle Paperwhite wall mount.
 
