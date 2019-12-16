@@ -9,7 +9,7 @@ These are laser cutter templates for a set of coasters in the shapes of
 The SVG files contain two layers named "cut" and "engrave" that respectively
 contain the paths to be cut and engraved.
 
-The 3.5" file contains three layers. One "cut" layers and separate engraving
+The 3.5" file contains three layers. One "cut" layer and separate engraving
 layers for wood and acrylic of the appropriate one has to be selected.
 In principle both versions work with any material but on the acrylic version
 some of the areas (e.g. the label) are inverted since that looks better
