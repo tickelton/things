@@ -1,7 +1,7 @@
 Confederate Cipher Disk
 =======================
 
-![confederate_cipher_disks_small.jpg](https://gitlab.com/tickelton/things/blob/master/confederate_cipher_disk/confederate_cipher_disks_small.jpg)
+![confederate_cipher_disks_small.jpg](https://gitlab.com/tickelton/things/raw/master/confederate_cipher_disk/confederate_cipher_disks_small.jpg)
 
 A laser cut replica of the [Confederate Cipher Disk](https://cryptomuseum.com/crypto/usa/ccd/index.htm).
 
