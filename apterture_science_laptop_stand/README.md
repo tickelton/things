@@ -1,6 +1,6 @@
 # Aperture Science laptop/monitor stand
 
-![image of finished laptop stand](apterture_science_laptop_stand/aperture_science_laptop_stand_finished.jpg)
+![image of finished laptop stand](https://gitlab.com/tickelton/things/raw/master/apterture_science_laptop_stand/aperture_science_laptop_stand_finished.jpg)
 
 These are templates for a monitor/laptop stand.
 

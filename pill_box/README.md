@@ -1,7 +1,7 @@
 Pill Box
 ========
 
-![pill_box_small.jpg](pill_box/pill_box_small.jpg)
+![pill_box_small.jpg](https://gitlab.com/tickelton/things/raw/master/pill_box/pill_box_small.jpg)
 
 A simple pill box laser cut from acrylic.
 

@@ -1,7 +1,7 @@
 Floppy Disk Coasters
 ====================
 
-![floppy_disk_coasters.jpg](floppy_disk_coasters/floppy_disk_coasters.jpg)
+![floppy_disk_coasters.jpg](https://gitlab.com/tickelton/things/raw/master/floppy_disk_coasters/floppy_disk_coasters.jpg)
 
 These are laser cutter templates for a set of coasters in the shapes of
 3.5", 5.25" and 8" floppy disks.

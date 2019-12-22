@@ -1,8 +1,8 @@
 IKEA Lagra work lamp shelf mount
 ================================
 
-![lagra-work-lamp_small.jpg](ikea_lagra_lamp_shelf_mount/lagra-work-lamp_small.jpg)
-![lamp_mount.jpg](ikea_lagra_lamp_shelf_mount/lamp_mount.jpg)
+![lagra-work-lamp_small.jpg](https://gitlab.com/tickelton/things/raw/master/ikea_lagra_lamp_shelf_mount/lagra-work-lamp_small.jpg)
+![lamp_mount.jpg](https://gitlab.com/tickelton/things/raw/master/ikea_lagra_lamp_shelf_mount/lamp_mount.jpg)
 
 Mounting bracket to transform a IKEA Lagra work lamp (or any other lamp/item with
 a diameter of up to 12mm) into a shelf-mounted lamp.
