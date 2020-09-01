@@ -11,7 +11,8 @@ with the ArduinoISP sketch and avrdude, can be used as an In System Programmer
 to program other AVR microcontrollers.
 
 The steps necessary to use an Arudino Nano as an AVR ISP are well documented,
-e.g. at [1], and the necessary circuit can easily be set up on a breadboard.
+e.g. [here](https://learn.adafruit.com/arduino-tips-tricks-and-techniques/arduinoisp),
+and the necessary circuit can easily be set up on a breadboard.
 Accordingly the shield proposed here essentially consists of only 6 wires, one
 capacitor and 3 optional LEDs.
 
@@ -35,17 +36,14 @@ the heartbeat LED will start pulsating to indicate correct operation.
 The target circuit can the be programmed with avrdude using a command similar
 to the following:
 
-$ avrdude -v -p attiny85 -b 19200 -c arduino -P /dev/ttyUSB0 -U flash:w:main.hex
+    $ avrdude -v -p attiny85 -b 19200 -c arduino -P /dev/ttyUSB0 -U flash:w:main.hex
 
 
 As a side note:
-The target board shown in the pictures is a clone of a Sparkfun AVR Stick[2]
-used as a prototyping platform for V-USB[3] applications. A repository
-with several demo applications for it can be found at [4].
+The target board shown in the pictures is a clone of a
+[Sparkfun AVR Stick](https://www.sparkfun.com/products/retired/9147)
+used as a prototyping platform for [V-USB](https://www.obdev.at/products/vusb/index.html)
+applications. A repository with several demo applications for it can be found
+[here](https://gitlab.com/tickelton/avr_stick_apps).
 
-------------------------------------------------------------------------------
 
-[1] https://learn.adafruit.com/arduino-tips-tricks-and-techniques/arduinoisp
-[2] https://www.sparkfun.com/products/retired/9147
-[3] https://www.obdev.at/products/vusb/index.html
-[4] https://gitlab.com/tickelton/avr_stick_apps
